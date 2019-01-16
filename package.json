@@ -2,4 +2,22 @@
   "name": "chatmaki",
   "homepage": "http://bento.chatmaki.com",
   "version": "0.1.0",
+  "description": "messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datgamedev/messenger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datgamedev/messenger/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
